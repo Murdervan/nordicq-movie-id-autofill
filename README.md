@@ -34,7 +34,3 @@ Click 🎬 Find Movie ID
 Copy the ID
 
 Ctrl+V → done
-
-Credits
-
-Movie ID Finder by Murdervan
