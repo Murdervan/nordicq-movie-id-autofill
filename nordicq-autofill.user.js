@@ -18,6 +18,7 @@
 
 // ==UserScript==
 // @name         NordicQ Movie ID Auto-Fill
+// @author Murdervan
 // @namespace    https://github.com/murdervan
 // @version      1.0.1
 // @description  Auto-fill TMDB & IMDB IDs on NordicQ request form + quick link to Movie ID Finder
